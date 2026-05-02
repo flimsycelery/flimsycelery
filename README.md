@@ -56,19 +56,19 @@
 
 ### 🔹 SurgeSense – ML-Powered Ride-Hailing Surge Prediction
 
-👉 https://github.com/flimsycelery/YOUR_PROJECT
+👉 https://github.com/flimsycelery/Surge-Fare-Predictor
 
 ### 🔹 SkillEx – AI Skill Exchange Platform
 
-👉 https://github.com/flimsycelery/YOUR_PROJECT
+👉 https://github.com/flimsycelery/SkillEx
 
 ### 🔹 E-commerce API
 
-👉 https://github.com/flimsycelery/flimsycelery
+👉 https://github.com/flimsycelery/ecommerce-api
 
 ### 🔹 Culture Analyzer
 
-👉 https://github.com/flimsycelery/YOUR_PROJECT
+👉 https://github.com/flimsycelery/comment-culture-analyzer
 
 ---
 
