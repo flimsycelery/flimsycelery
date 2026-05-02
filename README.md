@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science (Data Science) student at New Horizon College of Engineering  
+- 🎓 Computer Science (Data Science) student at NHCE
 - 💡 Interested in machine learning and real-world data-driven applications  
 - 📊 Worked on projects involving prediction systems and NLP-based platforms  
 - ⚙️ Experience with model building, data processing, and deploying ML apps  
