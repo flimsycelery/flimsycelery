@@ -60,7 +60,7 @@
 * Built LightGBM model (**93.5% weighted F1-score**) outperforming RF & Logistic Regression
 * Engineered temporal + weather-based features; handled imbalance with SMOTE
 * Deployed Streamlit app with real-time predictions & SHAP explainability
-  👉 https://github.com/flimsycelery/YOUR_PROJECT
+  👉 https://github.com/flimsycelery/Surge-Fare-Predictor
 
 ---
 
@@ -69,7 +69,7 @@
 * Built semantic skill-matching using Sentence Transformers
 * Designed NLP-based matchmaking algorithm using cosine similarity
 * Backend with Flask, MongoDB, and real-time communication
-  👉 https://github.com/flimsycelery/YOUR_PROJECT
+  👉 https://github.com/flimsycelery/SkillEx
 
 ---
 
@@ -77,7 +77,7 @@
 
 * RESTful backend for authentication, products, and orders
 * Designed scalable API structure with clean architecture
-  👉 https://github.com/flimsycelery/flimsycelery
+  👉 https://github.com/flimsycelery/Ecommerce-API
 
 ---
 
@@ -85,7 +85,7 @@
 
 * NLP-based analysis of sentiment and culture patterns
 * Applied text processing, embeddings, and classification
-  👉 https://github.com/flimsycelery/YOUR_PROJECT
+  👉 https://github.com/flimsycelery/Comment-Culture-Analyzer
 
 ---
 
