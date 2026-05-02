@@ -81,7 +81,7 @@
 
 ---
 
-### 🔹 Culture Analyzer
+### 🔹 Comment Culture Analyzer
 
 * NLP-based analysis of sentiment and culture patterns
 * Applied text processing, embeddings, and classification
