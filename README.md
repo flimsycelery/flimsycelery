@@ -56,26 +56,50 @@
 
 ### 🔹 SurgeSense – ML-Powered Ride-Hailing Surge Prediction
 
-👉 https://github.com/flimsycelery/Surge-Fare-Predictor
+* Built LightGBM model (**93.5% weighted F1-score**) outperforming RF & Logistic Regression
+* Engineered temporal + weather-based features; handled imbalance with SMOTE
+* Deployed Streamlit app with real-time predictions & SHAP explainability
+  👉 https://github.com/flimsycelery/YOUR_PROJECT
+
+---
 
 ### 🔹 SkillEx – AI Skill Exchange Platform
 
-👉 https://github.com/flimsycelery/SkillEx
+* Built semantic skill-matching using Sentence Transformers
+* Designed NLP-based matchmaking algorithm using cosine similarity
+* Backend with Flask, MongoDB, and real-time communication
+  👉 https://github.com/flimsycelery/YOUR_PROJECT
+
+---
 
 ### 🔹 E-commerce API
 
-👉 https://github.com/flimsycelery/ecommerce-api
+* RESTful backend for authentication, products, and orders
+* Designed scalable API structure with clean architecture
+  👉 https://github.com/flimsycelery/flimsycelery
+
+---
 
 ### 🔹 Culture Analyzer
 
-👉 https://github.com/flimsycelery/comment-culture-analyzer
+* NLP-based analysis of sentiment and culture patterns
+* Applied text processing, embeddings, and classification
+  👉 https://github.com/flimsycelery/YOUR_PROJECT
+
+---
+
+## 🏆 Certifications
+
+* Microsoft DP-900 (Azure Data Fundamentals)
+* Oracle OCI 2025 Generative AI Professional
+* Oracle OCI 2025 AI Foundations Associate
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://www.linkedin.com/in/tanvi-pushparaj-61184925b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge">
   </a>
   <a href="mailto:tanvipushparaj@gmail.com">
