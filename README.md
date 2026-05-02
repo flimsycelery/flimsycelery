@@ -8,10 +8,11 @@
 
 ## 🚀 About Me
 
-* 🎓 B.E. Computer Science (Data Science), New Horizon College of Engineering (CGPA: 8.96)
-* 💻 Interested in Machine Learning, Backend Systems, and APIs
-* 🚀 Building real-world ML + backend projects with deployment
-* 🌱 Currently learning system design & scalable architectures
+- 🎓 Computer Science (Data Science) student at New Horizon College of Engineering  
+- 💡 Interested in machine learning and real-world data-driven applications  
+- 📊 Worked on projects involving prediction systems and NLP-based platforms  
+- ⚙️ Experience with model building, data processing, and deploying ML apps  
+- 🌱 Exploring practical ML use cases and improving problem-solving skills  
 
 ---
 
