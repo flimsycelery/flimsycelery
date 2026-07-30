@@ -1,7 +1,7 @@
 # Hi 👋, I'm Tanvi Pushparaj
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=ML+Engineer+%7C+Backend+Developer;Python+%7C+Flask+%7C+APIs;GSSoC+2025+Contributor&center=true&width=650&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Engineer+%7C+Data+Analyst;Python+%7C+Flask+%7C+APIs;GSSoC+2025+Contributor&center=true&width=650&height=50">
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 - 🎓 Computer Science (Data Science) student at NHCE
-- 💡 Interested in machine learning and real-world data-driven applications  
+- 💡 Interested in data engineering, machine learning and real-world data-driven applications  
 - 📊 Worked on projects involving prediction systems and NLP-based platforms  
 - ⚙️ Experience with model building, data processing, and deploying ML apps  
 - 🌱 Exploring practical ML use cases and improving problem-solving skills  
@@ -91,6 +91,7 @@
 
 ## 🏆 Certifications
 
+* Microsoft DP-600 (Fabric Analyst)
 * Microsoft DP-900 (Azure Data Fundamentals)
 * Oracle OCI 2025 Generative AI Professional
 * Oracle OCI 2025 AI Foundations Associate
