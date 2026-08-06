@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science (Data Science) student at NHCE
+- 🎓 Computer Science (Data Science) student at New Horizon College of Engineering
 - 💡 Interested in data engineering, machine learning and real-world data-driven applications  
 - 📊 Worked on projects involving prediction systems and NLP-based platforms  
 - ⚙️ Experience with model building, data processing, and deploying ML apps  
@@ -92,6 +92,7 @@
 ## 🏆 Certifications
 
 * Microsoft DP-600 (Fabric Analyst)
+* Microsoft DP-700 (Fabric Data Engineer)
 * Microsoft DP-900 (Azure Data Fundamentals)
 * Oracle OCI 2025 Generative AI Professional
 * Oracle OCI 2025 AI Foundations Associate
