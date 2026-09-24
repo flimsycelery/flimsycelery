@@ -1,18 +1,14 @@
 # Hi 👋, I'm Tanvi Pushparaj
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Engineer+%7C+Data+Analyst;Python+%7C+Flask+%7C+APIs;GSSoC+2025+Contributor&center=true&width=650&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Engineering+%7C+Data+Analytics;Intern+%40+Merck;Python+%7C+Flask+%7C+APIs+%7C+Microsoft+Fabric&center=true&width=650&height=50">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science (Data Science) student at New Horizon College of Engineering
-- 💡 Interested in data engineering, machine learning and real-world data-driven applications  
-- 📊 Worked on projects involving prediction systems and NLP-based platforms  
-- ⚙️ Experience with model building, data processing, and deploying ML apps  
-- 🌱 Exploring practical ML use cases and improving problem-solving skills  
+Final-year CS (Data Science) student building toward data engineering. I like taking messy, multi-source data and turning it into pipelines that actually hold up. Comfortable across the stack: ingestion, modeling, and the dashboards on top.
 
 ---
 
@@ -23,6 +19,8 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-grey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LightGBM-grey?style=for-the-badge" />
   <img src="https://img.shields.io/badge/scikit--learn-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge" />
@@ -55,37 +53,32 @@
 
 ## 📌 Featured Projects
 
-### 🔹 SurgeSense – ML-Powered Ride-Hailing Surge Prediction
+### 🔹 HealthSync — Multi-Source Health Data Fusion Pipeline
+* Entity resolution system unifying ASHA, ANM, PHC, and Anganwadi community health records
+* RapidFuzz fuzzy matching with Kannada transliteration handling; NFHS-5-validated synthetic data
+* Final-year major project — KSCST Student Project Programme submission
 
+### 🔹 SurgeSense – ML-Powered Ride-Hailing Surge Prediction
 * Built LightGBM model (**93.5% weighted F1-score**) outperforming RF & Logistic Regression
 * Engineered temporal + weather-based features; handled imbalance with SMOTE
 * Deployed Streamlit app with real-time predictions & SHAP explainability
   👉 https://github.com/flimsycelery/Surge-Fare-Predictor
 
----
+### 🔹 Comment Culture Analyzer
+* Multilingual YouTube comment analysis using Groq + Llama 3.3 70B and BERTopic, across 20+ languages
+* Applied text processing, embeddings, and classification
+  👉 https://github.com/flimsycelery/Comment-Culture-Analyzer
 
 ### 🔹 SkillEx – AI Skill Exchange Platform
-
 * Built semantic skill-matching using Sentence Transformers
 * Designed NLP-based matchmaking algorithm using cosine similarity
 * Backend with Flask, MongoDB, and real-time communication
   👉 https://github.com/flimsycelery/SkillEx
 
----
-
 ### 🔹 E-commerce API
-
 * RESTful backend for authentication, products, and orders
 * Designed scalable API structure with clean architecture
   👉 https://github.com/flimsycelery/Ecommerce-API
-
----
-
-### 🔹 Comment Culture Analyzer
-
-* NLP-based analysis of sentiment and culture patterns
-* Applied text processing, embeddings, and classification
-  👉 https://github.com/flimsycelery/Comment-Culture-Analyzer
 
 ---
 
@@ -94,6 +87,7 @@
 * Microsoft DP-600 (Fabric Analyst)
 * Microsoft DP-700 (Fabric Data Engineer)
 * Microsoft DP-900 (Azure Data Fundamentals)
+* Microsoft DP-750 (Azure Databricks)
 * Oracle OCI 2025 Generative AI Professional
 * Oracle OCI 2025 AI Foundations Associate
 
